@@ -1,2 +1,2 @@
 # UAVCtrl
-APP Development
+APP developed for UAV controling
